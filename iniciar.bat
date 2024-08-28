@@ -1,0 +1,3 @@
+@echo off
+echo Iniciando script PowerShell para túnel SSH...
+powershell -ExecutionPolicy Bypass -File "reconnect.ps1"
